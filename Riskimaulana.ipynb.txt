@@ -1,0 +1,52 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 26,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "3qugIiyfMywT",
+        "outputId": "72592946-b4be-4151-e1cf-37a43e099e09"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Riski Maulana Achmad\n",
+            "2605060052\n",
+            "Magelang,12 November 2005\n",
+            "Tegalrejo, Magelang\n",
+            "Laki-laki\n",
+            "Sepak bola\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Riski Maulana Achmad\") #Nama\n",
+        "print(2605060052) #NIM\n",
+        "print(\"Magelang,12 November 2005\") #ttl\n",
+        "print(\"Tegalrejo, Magelang\") #alamat\n",
+        "print(\"Laki-laki\") # jenis kelamin\n",
+        "print(\"Sepak bola\") #hobi\n",
+        "\n"
+      ]
+    }
+  ]
+}
